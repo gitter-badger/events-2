@@ -1,5 +1,7 @@
 # GDG Events
 
+[![Join the chat at https://gitter.im/gdg-natal/events](https://badges.gitter.im/gdg-natal/events.svg)](https://gitter.im/gdg-natal/events?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Join the chat at https://gitter.im/hudsonbrendon/challenges4dojo](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hudsonbrendon/challenges4dojo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Beerpay](https://beerpay.io/hudsonbrendon/challenges4dojo/badge.svg)](https://beerpay.io/hudsonbrendon/challenges4dojo)
 [![Build Status](https://travis-ci.org/hudsonbrendon/challenges4dojo.svg?branch=master)](https://travis-ci.org/hudsonbrendon/challenges4dojo)
